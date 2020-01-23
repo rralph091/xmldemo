@@ -15,7 +15,7 @@
  <rss version='2.0'>
  <channel>
  <title>w3schools.in | RSS</title>
- <link>href="http://rss.cnn.com/rss/edition.rss</link>
+ <link>href="//cdn.cnn.com/cnn/.element/ssi/css/1.0/alerts.css"</link>
  <description>Cloud RSS</description>
  <language>en-us</language>";
  
